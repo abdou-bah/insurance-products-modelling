@@ -25,9 +25,7 @@ Academic project in insurance modelling (Master Actuariat & Finance, University 
 | `Non_Vie_Sante.bas` | path simulation, Best Estimate and PVFP for each path |
 | `Rente_Conjoint.bas` | path simulation, Best Estimate and PVFP for each path |
 
-The workbooks are published as `.xlsx` with all results already computed. To run the macros: save a workbook as `.xlsm`, open the VBA editor (Alt + F11), import the matching `.bas` file (File > Import File), then run the macros (Alt + F8).
-
-## Main results (k€)
+PS / The workbooks are published as `.xlsx` with all results already computed.
 | Product | Best Estimate | PVFP before tax | PVFP after tax | SCR |
 |---|---|---|---|---|
 | Health | 1,474.9 | 1,604.8 | 1,052.2 (664.3 net of reinsurance) | 415.0 |
